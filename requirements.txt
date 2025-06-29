@@ -7,8 +7,3 @@ fpdf
 pubchempy
 chembl_webresource_client
 matplotlib
-tempfile
-gc
-pubchempy
-io
-os
