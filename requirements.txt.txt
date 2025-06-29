@@ -1,10 +1,14 @@
 streamlit
+pandas
 rdkit
 xgboost
 scikit-learn
 fpdf
 pubchempy
 chembl_webresource_client
-pandas
-numpy
 matplotlib
+tempfile
+gc
+pubchempy
+io
+os
