@@ -6,4 +6,3 @@ fpdf
 pubchempy
 chembl_webresource_client
 matplotlib
-rdkit
