@@ -6,5 +6,4 @@ fpdf
 pubchempy
 chembl_webresource_client
 matplotlib
-# RDKit: uniquement sur Anaconda, Docker, ou local avec installation spéciale
-# rdkit
+rdkit
